@@ -12,7 +12,7 @@ I am not the Expert, I am the Experimentor
 
 <!-- ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
+<!-- BLOG-POST-LIST:END --> 
 
 ## :satellite: Connect with me
 [![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]
