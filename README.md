@@ -3,20 +3,15 @@
 I am not the Expert, I am the Experimentor
 
 ## :name_badge: I'm a Cyber Security researcher, Developer and Student!
-- :peach: I'm currently working on linux kernel modules and Capture The Flags
-- :lemon: I'm currently learning pentesting
+- :peach: I'm currently Playing TryHackMe :P
+- :lemon: I'm currently Working as Android Developer
 - :tangerine: I'm looking to collaborate on Open Source projects
-- :tomato: I'm looking for help on my latest project xss_bomb
-- :watermelon: You can reach me via email or twitter
+- :tomato: I'm looking for help on my latest project template shortcut
+- :watermelon: You can reach me via below social media handels
 - :meat_on_bone: Fun fact, I love linux \o/
 
 <!-- ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [wreath report](https://leosmith.xyz/blog/wreath-report.html)
-- [Getting into Active Directory](https://leosmith.xyz/blog/getting-into-ad.html)
-- [OWASP TOP 10 TryHackMe Writeup](https://leosmith.xyz/blog/owasptop10-tryhackme-writeup.html)
-- [Creating a docker workstation](https://leosmith.xyz/blog/docker-workstation.html)
-- [Hunting IDOR during recon](https://leosmith.xyz/blog/hunting-idor-recon.html)
 <!-- BLOG-POST-LIST:END --> -->
 
 ## :satellite: Connect with me
