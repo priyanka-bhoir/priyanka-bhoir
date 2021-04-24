@@ -3,7 +3,7 @@
 I am not the Expert, I am the Experimentor
 
 ## :name_badge: I'm a Cyber Security researcher, Developer and Student!
-- :peach: I'm currently Playing TryHackMe :P
+- :peach: I'm TryHackMe Player :P
 - :lemon: I'm currently Working as Android Developer
 - :tangerine: I'm looking to collaborate on Open Source projects
 - :tomato: I'm looking for help on my latest project template shortcut
