@@ -4,7 +4,7 @@ I am not the Expert, I am the Experimentor
 
 ## :name_badge: I'm a Cyber Security researcher, Developer and Student!
 - :peach: TryHackMe Player :P
-- :lemon: Currently Working as Android Developer
+- :lemon: Android Developer
 - :tangerine: Looking to collaborate on Open Source projects
 - :tomato: Looking for help on my latest projects
 - :watermelon: You can reach me via below social media handels and [Email][email]
