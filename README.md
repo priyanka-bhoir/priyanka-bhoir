@@ -3,11 +3,11 @@
 I am not the Expert, I am the Experimentor
 
 ## :name_badge: I'm a Cyber Security researcher, Developer and Student!
-- :peach: I'm TryHackMe Player :P
-- :lemon: I'm currently Working as Android Developer
-- :tangerine: I'm looking to collaborate on Open Source projects
-- :tomato: I'm looking for help on my latest project template shortcut
-- :watermelon: You can reach me via below social media handels
+- :peach: TryHackMe Player :P
+- :lemon: Currently Working as Android Developer
+- :tangerine: Looking to collaborate on Open Source projects
+- :tomato: Looking for help on my latest projects
+- :watermelon: You can reach me via below social media handels and [Email][email]
 - :meat_on_bone: Fun fact, I love linux \o/
 
 <!-- ## :notebook: Latest blog posts
@@ -30,3 +30,4 @@ I am not the Expert, I am the Experimentor
 [linkedin]: https://www.linkedin.com/in/priyankabhoir1/
 [tryhackme]: https://tryhackme.com/p/verl
 [twitter]: https://twitter.com/_piyulove
+[email]: Er.priyankabhoir1@gmail.com
