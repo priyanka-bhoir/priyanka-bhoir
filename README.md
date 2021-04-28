@@ -30,4 +30,4 @@ I am not the Expert, I am the Experimentor
 [linkedin]: https://www.linkedin.com/in/priyankabhoir1/
 [tryhackme]: https://tryhackme.com/p/verl
 [twitter]: https://twitter.com/_piyulove
-[email]: Er.priyankabhoir1@gmail.com
+[email]: https://mail.google.com/mail/u/0/#inbox?compose=Er.priyankabhoir1@gmail.com
