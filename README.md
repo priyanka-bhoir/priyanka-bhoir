@@ -7,7 +7,7 @@ I am not the Expert, I am the Experimentor
 - :lemon: Android Developer
 - :tangerine: Looking to collaborate on Open Source projects
 - :tomato: Looking for help on my latest projects
-- :watermelon: You can reach me via below social media handels and [Email][email]
+- :watermelon: You can reach me via below social media handels and [Email].
 - :meat_on_bone: Fun fact, I love linux \o/
 
 <!-- ## :notebook: Latest blog posts
