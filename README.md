@@ -26,9 +26,9 @@ I am not the Expert, I am the Experimentor
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-bhoir&hide=&layout=compact&theme=dark)
 
-<p align="left">
- #<img src="https://github-profile-trophy.priyanka.app/?username=devded&theme=flat&row=1" alt="priyanka-bhoir" />
-</p>
+<!-- <p align="left">
+ <img src="https://github-profile-trophy.priyanka.app/?username=devded&theme=flat&row=1" alt="priyanka-bhoir" />
+</p>-->
 
 
 
