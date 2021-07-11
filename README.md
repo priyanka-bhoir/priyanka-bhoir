@@ -22,7 +22,13 @@ I am not the Expert, I am the Experimentor
 
 ---
 
-![p4p1's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dracula)
+![priyanka-bhoir's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-bhoir&hide=&layout=compact&theme=dark)
+
+<p align="left">
+ <img src="https://github-profile-trophy.priyanka.app/?username=devded&theme=flat&row=1" alt="priyanka-bhoir" />
+</p>
 
 
 
