@@ -22,7 +22,7 @@ I am not the Expert, I am the Experimentor
 
 ---
 
-![Try Hack ME](https://tryhackme.com/badge/107383)
+<!-- ![Try Hack ME](https://tryhackme.com/badge/107383) -->
 
 ![priyanka-bhoir's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dracula)
 
