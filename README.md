@@ -22,6 +22,8 @@ I am not the Expert, I am the Experimentor
 
 ---
 
+<script src="https://tryhackme.com/badge/107383"></script>
+
 ![priyanka-bhoir's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-bhoir&hide=&layout=compact&theme=dark)
