@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+Priyanka+here...)](https://git.io/typing-svg)
 ### What's up! I'm [Priyanka][website] :penguin:
 
 I am not the Expert, I am the Experimentor
