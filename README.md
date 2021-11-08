@@ -27,9 +27,13 @@ I am not the Expert, I am the Experimentor
 
 <!-- ![Try Hack ME]("https://tryhackme-badges.s3.amazonaws.com/verl.png) -->
 
-![priyanka-bhoir's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dracula)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka-bhoir&show_icons=true&theme=dark&locale=en&layout=compact" alt="priyanka-bhoir" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-bhoir&hide=&layout=compact&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dark&locale=en&count_private=true" alt="priyanka-bhoir" /></p>
+
+<!-- ![priyanka-bhoir's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-bhoir&hide=&layout=compact&theme=dark) -->
 
 <!-- <p align="left">
  <img src="https://github-profile-trophy.priyanka.app/?username=devded&theme=flat&row=1" alt="priyanka-bhoir" />
