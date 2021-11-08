@@ -2,6 +2,8 @@
 ### What's up! I'm [Priyanka][website] :penguin:
 
 I am not the Expert, I am the Experimentor
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-bhoir&label=Profile%20views&color=ff4d00&style=flat" alt="priyanka" /> </p>
+
 
 ## :name_badge: I'm a Cyber Security researcher, Developer and Student!
 - :peach: TryHackMe Player :P
