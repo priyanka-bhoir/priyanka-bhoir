@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+Priyanka+here...)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+Priyanka+here...)](https://git.io/typing-svg) -->
 ### What's up! I'm [Priyanka][website] :penguin:
 
-I am not the Expert, I am the Experimentor
+<!-- I am not the Expert, I am the Experimentor -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=F76CCC&center=true&multiline=true&height=60&lines=I+am+not+the+Expert%2C+;I+am+the+Experimenter..!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-bhoir&label=Profile%20views&color=ff4d00&style=flat" alt="priyanka" /> </p>
 
 
