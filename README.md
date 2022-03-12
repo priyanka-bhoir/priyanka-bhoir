@@ -2,9 +2,7 @@
 ### What's up! I'm [Priyanka][website] :penguin:
 
 <!-- I am not the Expert, I am the Experimentor -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=F76CCC&center=true&multiline=true&height=60&lines=I+am+not+the+Expert%2C+;I+am+the+Experimenter..!)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-bhoir&label=Profile%20views&color=ff4d00&style=flat" alt="priyanka" /> </p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=3338F7&center=true&multiline=true&height=60&lines=I+am+not+the+Expert%2C+;I+am+the+Experimenter..!)](https://git.io/typing-svg)
 
 ## :name_badge: I'm a Cyber Security researcher, Developer and Student!
 - :peach: TryHackMe Player :P
