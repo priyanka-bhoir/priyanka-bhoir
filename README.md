@@ -21,7 +21,7 @@
 [![twitter](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/twitter.png)][twitter]
 [![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]
 [![tryhackme](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png)][tryhackme]
-[![leetcode](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fleetcode.com%2Fstatic%2Fimages%2FLeetCode_logo.png&f=1&nofb=1)][leetcode]
+<!-- [![leetcode](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fleetcode.com%2Fstatic%2Fimages%2FLeetCode_logo.png&f=1&nofb=1)][leetcode] -->
 
 
 ---
