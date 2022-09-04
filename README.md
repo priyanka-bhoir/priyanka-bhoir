@@ -21,6 +21,8 @@
 [![twitter](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/twitter.png)][twitter]
 [![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]
 [![tryhackme](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png)][tryhackme]
+[![leetcode](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/leetcode.png)][leetcode]
+
 
 ---
 
@@ -44,4 +46,5 @@
 [linkedin]: https://www.linkedin.com/in/priyankabhoir1/
 [tryhackme]: https://tryhackme.com/p/verl
 [twitter]: https://twitter.com/_piyulove
+[leetcode]: https://leetcode.com/priyanka-bhoir/
 [email]: https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSqXqnGBRkTzVHqBHqlrXnShnxxqCGBFKtfGNtDGvbldvPFWnfXlbTjRWpbnZCMLPZlh
