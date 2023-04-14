@@ -7,7 +7,7 @@
 ## :name_badge: I'm a Cyber Security researcher, SDE@TCS!
 - :peach: TryHackMe Player(top 2%) :P
 - :lemon: Android Developer
-- :tangerine: Looking to collaborate on Open Source projects
+- :tangerine: Looking to collaborate on Open Source Android projects
 - :tomato: Looking for help on my latest projects
 - :watermelon: You can reach me via below social media handels and email me at Er.priyankabhoir1@gmail.com.
 - :meat_on_bone: Fun fact, I love linux \o/
