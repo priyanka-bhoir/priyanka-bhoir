@@ -1,5 +1,5 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+Priyanka+here...)](https://git.io/typing-svg) -->
-### What's up! I'm [Priyanka][website] :penguin:
+<h1 align="center">Hi 👋, I'm Priyanka</h1>
 
 <!-- I am not the Expert, I am the Experimentor -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=00B1FFFF&center=true&multiline=true&height=60&lines=I+am+not+the+Expert%2C+;I+am+the+Experimenter..!)](https://git.io/typing-svg)
@@ -32,6 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dark&locale=en&count_private=true" alt="priyanka-bhoir" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-bhoir&" alt="priyanka-bhoir" /></p>
 <!-- ![priyanka-bhoir's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-bhoir&hide=&layout=compact&theme=dark) -->
