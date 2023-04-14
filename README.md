@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 
 <!-- I am not the Expert, I am the Experimentor -->
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=00B1FFFF&center=true&multiline=true&height=60&lines=I+am+not+the+Expert%2C+;I+am+the+Experimenter..!)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=00B1FFFF&center=true&multiline=false&height=100&lines=I+am+not+the+Expert%2C+;I+am+the+Experimenter..!)](https://git.io/typing-svg)
 
 ## :name_badge: I'm a Cyber Security researcher, SDE-1 @ TCS!
 - :peach: TryHackMe Player(top 2%) :P
