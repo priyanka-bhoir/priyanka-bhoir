@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dark&locale=en&count_private=true" alt="priyanka-bhoir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-bhoir&" alt="priyanka-bhoir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-bhoir&show_icons=true&theme=dark&locale=en" alt="priyanka-bhoir" /></p>
 <!-- ![priyanka-bhoir's github stats](https://github-readme-stats.vercel.app/api?username=priyanka-bhoir&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-bhoir&hide=&layout=compact&theme=dark) -->
