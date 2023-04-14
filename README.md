@@ -4,7 +4,7 @@
 <!-- I am not the Expert, I am the Experimentor -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=00B1FFFF&center=true&multiline=true&height=60&lines=I+am+not+the+Expert%2C+;I+am+the+Experimenter..!)](https://git.io/typing-svg)
 
-## :name_badge: I'm a Cyber Security researcher, Developer and Student!
+## :name_badge: I'm a Cyber Security researcher, SDE-1 @ TCS!
 - :peach: TryHackMe Player(top 2%) :P
 - :lemon: Android Developer
 - :tangerine: Looking to collaborate on Open Source projects
