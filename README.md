@@ -1,16 +1,16 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+Priyanka+here...)](https://git.io/typing-svg) -->
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 
-<!-- I am not the Expert, I am the Experimentor -->
+<!-- I am not the Expert, I am the Experimental -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=00B1FFFF&center=true&multiline=true&height=60&lines=I+am+not+the+Expert%2C+;I+am+the+Experimenter..!)](https://git.io/typing-svg)
 
 ## :name_badge: I'm a Software Engineering @TCS!
 - :peach: TryHackMe Player(top 2%) :P
 - :lemon: Android Developer
 - :tangerine: Looking to collaborate on Open Source projects
-- :tomato: Looking for help on my latest projects
-- :watermelon: You can reach me via below social media handels and email me at Er.priyankabhoir1@gmail.com.
-- :meat_on_bone: Fun fact, I love linux \o/
+- :tomato: Looking to work with passionate people
+- :watermelon: You can reach me via below social media handles below and email me at Er.priyankabhoir1@gmail.com.
+- :meat_on_bone: Fun fact, I love Linux \o/
 
 <!-- ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
