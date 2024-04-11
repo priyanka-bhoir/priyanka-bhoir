@@ -8,7 +8,7 @@
 - :peach: TryHackMe Player(top 2%) :P
 - :lemon: Android Developer
 - :tangerine: Looking to collaborate on Open Source projects
-- :tomato: Looking to work with passionate people
+- :tomato: Looking forward to working with passionate people
 - :watermelon: You can reach me via below social media handles below and email me at Er.priyankabhoir1@gmail.com.
 - :meat_on_bone: Fun fact, I love Linux \o/
 
